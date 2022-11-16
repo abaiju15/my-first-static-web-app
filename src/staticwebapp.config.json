@@ -25,7 +25,7 @@
                             "clientSecretSettingName": "AADB2C_PROVIDER_CLIENT_SECRET"
                         },
                         "openIdConnectConfiguration": {
-                            "wellKnownOpenIdConfiguration": "https://commercialwholesalerb2c.onmicrosoft.com.b2clogin.com/commercialwholesalerb2c.onmicrosoft.com.onmicrosoft.com/B2C_1_sign_up_sign_in/v2.0/.well-known/openid-configuration"
+                            "wellKnownOpenIdConfiguration": "https://commercialwholesalerb2c.b2clogin.com/commercialwholesalerb2c.onmicrosoft.com/B2C_1_sign_up_sign_in/v2.0/.well-known/openid-configuration"
                         }
                     },
                     "login": {
